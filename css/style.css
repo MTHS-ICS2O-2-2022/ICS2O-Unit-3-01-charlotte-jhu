@@ -24,13 +24,21 @@
 
 .page-content-instructions {
   font-family: Georgia, "Times New Roman", Times, serif;
+<<<<<<< HEAD
   font-size: x-large;
+=======
+  font-size: xx-large;
+>>>>>>> 578c8df2ddfed1ce36c53c96bc403ed417f447c4
 }
 
 .page-content-answer {
   color: black;
   font-family: Georgia, "Times New Roman", Times, serif;
+<<<<<<< HEAD
   font-size: x-large;
+=======
+  font-size: xx-large;
+>>>>>>> 578c8df2ddfed1ce36c53c96bc403ed417f447c4
 }
 
 .right-image {
@@ -42,7 +50,10 @@
 body {
   background-color: lightblue;
 }
+<<<<<<< HEAD
 
 form {
   font-size:large;
 }
+=======
+>>>>>>> 578c8df2ddfed1ce36c53c96bc403ed417f447c4
